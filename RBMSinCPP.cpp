@@ -1,3 +1,9 @@
+/*
+This is a program in turboC which will enable a user to input the many factors responsible for the economic growth of a country and process it
+to determine the growth/decline of an economy
+Real life indicators are used and are stored in files for future access and analysis
+*/
+
 #include<fstream.h>
 #include<conio.h>
 #include<stdio.h>
